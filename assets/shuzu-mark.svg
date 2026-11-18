@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 76" role="img" aria-labelledby="title">
   <title id="title">SHUZU</title>
-  <path fill="#191919" d="M2 0h150l38 38-38 38H2l28-38z"/>
+  <path fill="#191919" d="M0 0h152l20 38-20 38H0z"/>
   <path fill="#C92F3D" d="M151 0h41v76h-41l20-38z"/>
-  <text x="16" y="51" fill="#fff" font-family="Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="-4">SHUZU</text>
+  <text x="16" y="51" fill="#fff" font-family="Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-2">SHUZU</text>
 </svg>

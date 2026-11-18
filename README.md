@@ -9,7 +9,7 @@ Open `index.html` in a browser, or serve this folder with any static server.
 ## Before launch
 
 - Replace `assets/shuzu-mark.svg` with the official logo if one is supplied. Preserve the filename or update the image path in `index.html`.
-- Replace the `mailto:` Instagram placeholder in `index.html` with the real public Instagram URL.
+- Navigation, footer, and Stay tuned link to https://www.instagram.com/shuzu.in/.
 - Update Open Graph metadata with the final production URL and social preview image when available.
 
 ## Deploy to GitHub Pages
